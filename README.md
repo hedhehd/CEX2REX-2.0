@@ -1,5 +1,5 @@
 # CEX2REX-2.0
-Silica i had to do this because some people are in Github so i did this sorry
+Silica i had to do this because some people are in Github so i did this sorry ;(
 
 Install Testkit Firmware on Retail consoles. 99% chance that it will NOT brick your vita unless you exit the app or shut down the system while flashing or anything and make sure its fully charged.
 
