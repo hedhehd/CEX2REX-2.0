@@ -4,12 +4,14 @@ Install Testkit Firmware on Retail consoles... mostly works.. xD
 
 
 CEX2REX 2.0
+
 How to use:
 1) Download the Testkit/DEX PUP file for your firmware and put it @ ux0:/DEX.PUP
 2) Run the app and press X to install
 - its recommended to have reF00D (https://github.com/dots-tb/reF00D) installed, as f00d refuses to decrypt some testkit applications
 
 Credits
+
 Silica - All Graphics, Most Code
 PSM INSTITUTIONS LLC (aka Silica) - Epic "Intellectual Property Notices"
 Princess Of Sleeping - PUP Extractor
@@ -21,10 +23,12 @@ For license information:
 https://bitbucket.org/SilicaAndPina/cex-2-rex/src/master/Interlectural%20Property%20Notices.txt
 
 Downloads:
+
 Installer VPK: https://bitbucket.org/SilicaAndPina/cex-2-rex/downloads/CEX2REX-2.0.vpk
 DEX Firmware Updates: https://darthsternie.net/ps-vita-dev-firmwares/
 
 Building
+
 To build from source, you need VitaSdk - https://vitasdk.org/
 then use sh build.sh to build the VPK.
 If you want to change the "Interlectural Property Notices",
@@ -32,6 +36,7 @@ You need the PlayStation Mobile SDK - http://ares.dl.playstation.net/psm_resourc
 installed then run make_appinfo.bat to rebuild the app.info file
 
 Testkit Features that DO work
+
 Trophy App
 All these functions effect the local trophy.db only, and do not sync to PlayStation Network.
 Inside the trophy app there following options are added:
@@ -42,10 +47,12 @@ Inside the trophy app there following options are added:
 - Unlock All
 
 Package Installer
+
 Can be used to install fPKG from the psvita offical SDK, or to install DRMFree Packages from PSN.
 Same as on 3.18.
 
 Settings
+
 A new "Debug Settings" entry is added..
 Some notable features include user management and being able to skip game update checks.
 also fake your consoles region :D
@@ -153,6 +160,7 @@ dont really need to worry about this on cex2rex ..
 Thats all for debug settings (there is alot)
 
 SceShell
+
 No PS Store icon by default (still able to get with "Enable PS Store" app https://bitbucket.org/SilicaAndPina/enablepsstore)
 No stupid "Tips" on reset telling you how to use the system for the 300th time
 No advertisements on the game selector screen.
@@ -172,12 +180,14 @@ Inside that you have the following options:
 - Generate Core File (Generates a coredump, same as if the game crashes.)
 
 "Show Mode"
+
 which locks the ps and power button,
 they acturaly still work if you press and hold them for long enough lol.
 This probably intended for use at conventions and other places with game demos..
 Key Combo (L + R + RIGHT on DPAD + START)
 
 "Information" screen
+
 When you view a games information on the LiveArea:
 - Title ID
 - PS Vita Card RW Area (grw0 size)
@@ -186,6 +196,7 @@ When you view a games information on the LiveArea:
 - Save Data Quota (max savefile size)
 
 Browser app
+
 No "Playstation.com" icon on the LiveArea
 Settings "Security" tab removed, infact trend micro is just removed
 "Title Stores"
@@ -193,37 +204,46 @@ Most likely used by offical devs to see what there game would look like on the s
 It is possible to access the download list from here
 
 Devkit CMA
+
 Content Mannager Assistant has the option to "Copy SaveData Only"
 also, the accountid used in CMA will allways be 0x000000000000000
 which acturally means you can copy backups made on DEX to any other DEX console :D
 
 Checker
+
 Needs reF00D by dots_tb to run properly. since f00d refuses to decrypt it..
 Checks a game to make sure it matches with Sony's TRC requirements (required for publishing to PSN)
 
 MiniSettings For QA
+
 A settings app that only has debug settings in it.. idk why its there either
 
 Quick Sign Up
+
 Needs reF00D by dots_tb to run properly. since f00d refuses to decrypt it..
 Quickly sign up to playstation network, (sp-int only?, or maybe CID?)
 
 Testkit firmwares that dont work ~
+
 System update
+
 Cannot install testkit update .PUP files.
 only retail ones still.
 
 Safe Mode
+
 The testkit spoofer (testkit.skprx) doesnt run in safe mode.
 the testkit safemode is slightly different though,
 i think it has extra options under "Update System Software"?
 
 Downgrading
+
 Real testkits can downgrade to any other testkit firmware they want, with littearlly no restriction
 though sony can (and has in the past) blocked you from downgrading past a certain point
 Modoru pretty much offers this functionality anyway though.
 
 Untested features
+
 USB Ethernet
 Ive often wondered if on REX you could use the "USB Ethernet Adapter" for testkits.
 it should work. but there incredibly hard to come by, so i havent been able to try it ..
