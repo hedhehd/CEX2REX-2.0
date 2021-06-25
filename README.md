@@ -38,6 +38,7 @@ installed then run make_appinfo.bat to rebuild the app.info file
 Testkit Features that DO work
 
 Trophy App
+
 All these functions effect the local trophy.db only, and do not sync to PlayStation Network.
 Inside the trophy app there following options are added:
 - Delete All
