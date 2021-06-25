@@ -1,0 +1,1 @@
+int kscePowerSetCallbackState(int enable);
