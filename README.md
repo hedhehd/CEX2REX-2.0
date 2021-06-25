@@ -22,7 +22,7 @@ TheFlow0 - SPKG Decryptor (modoru)
 zecoaxco - spoof_testkit / memdump
 
 For license information:
-https://raw.githubusercontent.com/hedhehd/CEX2REX-2.0/main/Interlectural%20Property%20Notices.txt
+https://github.com/hedhehd/CEX2REX-2.0/main/Interlectural%20Property%20Notices.txt
 
 Downloads:
 
