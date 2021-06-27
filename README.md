@@ -1,6 +1,8 @@
 # CEX2REX-2.0
 Silica i had to do this because some people are in Github so i did this sorry ;(
 
+This can be removed, if this is copyrighted
+
 Install Testkit Firmware on Retail consoles. 99% chance that it will NOT brick your vita unless you exit the app or shut down the system while flashing or anything and make sure its fully charged.
 
 WARNING:THIS WILL MAKE YOUR VITA TO REX, IF ANYTHING GOES WRONG, THERES NO RECOVERY (Not even with an hardware flasher), SO MAKE SURE TO NOT TOUCH THE VITA AND FULLY CHARGE IT.
