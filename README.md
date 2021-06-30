@@ -9,6 +9,10 @@ Install Testkit Firmware on Retail consoles. 99% chance that it will NOT brick y
 
 WARNING:THIS WILL MAKE YOUR VITA TO REX, IF ANYTHING GOES WRONG, THERES NO RECOVERY (Not even with an hardware flasher), SO MAKE SURE TO NOT TOUCH THE VITA AND FULLY CHARGE IT.
 
+Also the darthsternie PS Vita Firmware chenged since i don't even know. So heres the link:https://darthsternie.net/ps-vita-dev-firmwares/
+
+or just hover over "PS VITA" and then click "PS Vita Dev Firmwares"
+
 
 
 CEX2REX 2.0
